@@ -10,7 +10,6 @@ This repository contains a Jupyter Notebook project focused on analyzing and vis
 - [Requirements](#requirements)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
